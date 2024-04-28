@@ -6,3 +6,4 @@ python016基于协同过滤商品推荐系统设计带vue前后端分离设计
 
 ![6f802a603ac0565901252becbed3b2b](https://github.com/7lucky22/-Django-/assets/106467105/d6b3d9fe-b997-4aa8-96f8-314e53d48eda)
 ![3e2cee28292da073127b40cf7ceb8ae](https://github.com/7lucky22/-Django-/assets/106467105/a501fbfa-57b5-4527-bf53-41cfaf79968e)
+![26d7efdcb01da5ac8bde329643aec5f](https://github.com/7lucky22/-Django-/assets/106467105/a2ac21c1-3913-45be-b375-4347c28953f5)
